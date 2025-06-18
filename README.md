@@ -13,9 +13,9 @@ coming soon...
 ## 2. 案内URL
 要望があれば下記までお願いいたします。
 - [Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSc_6v_IEXRQcK9IYCCtl17t9_WQI8dsGTLXe_kUR4hl4U3nlA/viewform)
-- [MicroSoftフォーム](https://forms.office.com/Pages/ResponsePage.aspx?id=l5ONQn7KMUSRfp4Y7n_N11XuT0dGDMNKniOwa_Axh0BUNkgyRkoyV1VERUVDNzNXS09RVUxFTVZXVi4u)
 
 <br>
 
 ## 3. 連絡先
-teams:b23a0253
+teams
+- Owner：b23a0253
