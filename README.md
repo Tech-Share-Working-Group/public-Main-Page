@@ -4,7 +4,7 @@
 <br>
 
 # 1. 「Tech Share Working Group」について
-coming soon...
+...
 
 <br>
 
