@@ -1,5 +1,3 @@
-<img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2702119/51045226-3b8a-4453-bf6a-af4010c54af4.jpeg">
-
 # Public-Main-Page
 こちらはTSワーキンググループのメインページです。
 
